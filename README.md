@@ -1,5 +1,1 @@
-<body style="background-color🐈‍⬛;">
-
-<h1>Basic Java Programs</h1>
-
-</body>
+<h1 style="color:red;">Basic Java Programs</h1>
